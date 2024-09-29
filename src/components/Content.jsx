@@ -68,7 +68,7 @@ export function Content() {
     <>
       <Header
         title='Mulheres em Tech'
-        subtitle='Conheça personalidades femininas que estão transformando a tecnologia'
+        subtitle='Conheça personalidades femininas da tecnologia'
         image={listaImg}
       />
       <div className={styles.projectsContainer}>
